@@ -1,6 +1,6 @@
 {
-  "name": "@khazii/ngx-intl-tel-input",
-  "version": "0.0.0",
+  "name": "@l4nos/ngx-intl-tel-input",
+  "version": "5.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
