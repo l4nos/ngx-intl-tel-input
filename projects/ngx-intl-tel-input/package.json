@@ -1,6 +1,6 @@
 {
-  "name": "@khazii/ngx-intl-tel-input",
-  "version": "3.3.1",
+  "name": "@l4nos/ngx-intl-tel-input",
+  "version": "3.3.2",
   "peerDependencies": {
     "@angular/common": "^13.4.0",
     "@angular/core": "^13.4.0",
@@ -14,8 +14,8 @@
     "url": "git+https://github.com/Khazii/ngx-intl-tel-input"
   },
   "author": {
-    "name": "Khazii",
-    "email": "oliverbrennan05@gmail.com"
+    "name": "l4nos",
+    "email": "rob@updev.agency"
   },
   "keywords": [
     "angular",
