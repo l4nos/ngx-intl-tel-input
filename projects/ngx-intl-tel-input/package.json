@@ -33,7 +33,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Khazii/ngx-intl-tel-input/issues"
+    "url": "https://github.com/l4nos/ngx-intl-tel-input/issues"
   },
   "devDependencies": {
     "@types/google-libphonenumber": "^7.4.17"
